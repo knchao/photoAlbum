@@ -1,0 +1,33 @@
+a:hover{
+    background-color: yellow;
+    
+}
+
+a{
+    font-weight:bold;
+}
+
+.divJumbotron{
+    background-image: url("images/bluesky.png");
+    background-size: auto 100%;
+}
+
+img{
+    width: 100%;
+}
+
+form{
+    margin: auto;
+    width: 400px;
+    border: 2px solid lightgreen;
+}
+
+.formContent{
+    margin: 10px
+}
+
+#submitBtn{
+    display: block;
+    margin: auto;
+}
+
